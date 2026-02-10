@@ -1,0 +1,43 @@
+🔥Grok can be your free language coach.
+
+Here are the 10 prompts you can use:
+
+1. Outcome-First Language Plan
+
+“My goal is to use this language confidently for [travel/work/daily conversations]. Create a 30-day learning plan focused on speaking, listening, and understanding real conversations. Avoid streaks, games, or textbook-style lessons. Prioritize practical use only.”
+
+2. High-Frequency Core Vocabulary
+
+“Teach me the most commonly used words and phrases in this language for [specific context]. Include pronunciation guidance, how natives shorten or alter them in speech, and one natural, real-life example for each.”
+
+3. Natural Sentence Formation
+
+“Help me build simple, natural sentences that people actually use in daily life. Start with short structures and gradually expand them. Explain the word order and meaning in clear, non-technical language.”
+
+4. Real-World Conversation Practice
+
+“Role-play a realistic conversation for [situation]. Speak naturally, pause after each message so I can respond, and correct my mistakes gently while explaining what sounds unnatural.”
+
+5. Casual vs Formal Language Use
+
+“Show how the same idea is expressed casually, neutrally, and formally in this language. Explain when and why a native speaker would choose each version in real life.”
+
+6. Common Beginner Mistakes
+
+“List the most common mistakes learners make in everyday conversations in this language. Show incorrect examples, corrected versions, and explain why the mistake happens.”
+
+7. Thinking in the Language
+
+“Help me stop translating from English. Explain how a native speaker would naturally think and structure this idea in the language instead.”
+
+8. Pronunciation Without Audio
+
+“Explain how to pronounce these words using mouth position, rhythm, stress, and pacing, as if teaching someone without access to audio.”
+
+9. Everyday Phrases Natives Actually Use
+
+“Teach everyday phrases natives use in real conversations for [context]. Include informal shortcuts, filler words, and variations people say in fast speech.”
+
+10. Grammar Without Jargon
+
+“Explain this grammar concept using plain language only. Avoid technical terms and focus on how people actually use it when speaking.”
